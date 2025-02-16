@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Imagine Dragons Concert",
+    "description": "The best hits of Imagine Dragons live!",
+    "date": "2025-03-15",
+    "image": "imagine_dragons",
+    "tags": ["concert", "music", "rock"]
+  },
+  {
+    "id": 2,
+    "title": "Street Food Festival",
+    "description": "Try unique dishes from local chefs!",
+    "date": "2025-04-10",
+    "image": "street_food",
+    "tags": ["food", "festival", "street food"]
+  },
+  {
+    "id": 3,
+    "title": "Modern Art Exhibition",
+    "description": "Unique art pieces from world-renowned artists.",
+    "date": "2025-05-05",
+    "image": "art_exhibition",
+    "tags": ["art", "exhibition", "modern"]
+  }
+]
