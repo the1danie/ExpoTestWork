@@ -17,7 +17,7 @@ npm -v
 npm i expo
 ```
 
-Проверьте, что Expo CLI установлен:  
+Проверьте, что Expo установлен:  
 ```sh
 expo --version
 ```
